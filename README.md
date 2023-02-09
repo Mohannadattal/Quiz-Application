@@ -5,7 +5,7 @@
 ![Cryptocurrencies Application](https://i.ibb.co/0CCd75g/Screenshot-from-2023-02-09-11-52-04.png)
 
 ## Introduction
-A complete frontend quiz application that uses Angularand Bootstrap .
+A complete frontend quiz application that uses Angular and Bootstrap .
 
 
 
