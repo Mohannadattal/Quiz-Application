@@ -2,10 +2,10 @@
 
 ### [Live Site](https://quiz-application-1b9a3.web.app/)
 
-![Cryptocurrencies Application](https://i.postimg.cc/KzBzKkrW/Screenshot-from-2023-02-08-15-55-59.png)
+![Cryptocurrencies Application](https://i.ibb.co/0CCd75g/Screenshot-from-2023-02-09-11-52-04.png)
 
 ## Introduction
-A complete frontend quiz application that uses Angular , Bootstrap .
+A complete frontend quiz application that uses Angularand Bootstrap .
 
 
 
